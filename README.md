@@ -16,4 +16,6 @@
 ### Демонстрация игры "Наибольший общий делитель"
 [![asciicast](https://asciinema.org/a/V5TkRpGs7i8m3juD.svg)](https://asciinema.org/a/V5TkRpGs7i8m3juD)
 
+### Демонстрация игры "Арифметическая прогрессия"
+[![asciicast](https://asciinema.org/a/xtT8dE857T8EQXko.svg)](https://asciinema.org/a/xtT8dE857T8EQXko)
 
