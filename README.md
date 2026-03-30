@@ -7,9 +7,13 @@
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=aeskrynchenko78_frontend-project-44&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=aeskrynchenko78_frontend-project-44)
 
 
-### Установка и демонстрация игры EVEN
-Игра: "Проверка на четность"
+### Установка и демонстрация игры "Проверка на четность"
 [![asciicast](https://asciinema.org/a/w68yg9Yjj4vxw4QH.svg)](https://asciinema.org/a/w68yg9Yjj4vxw4QH)
 
-Игра: "Калькулятор"
+### Демонстрация игры "Калькулятор"
 [![asciicast](https://asciinema.org/a/5NoH5vdRBHo6KBlg.svg)](https://asciinema.org/a/5NoH5vdRBHo6KBlg)
+
+### Демонстрация игры "Наибольший общий делитель"
+[![asciicast](https://asciinema.org/a/V5TkRpGs7i8m3juD.svg)](https://asciinema.org/a/V5TkRpGs7i8m3juD)
+
+
