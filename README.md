@@ -8,5 +8,8 @@
 
 
 ### Установка и демонстрация игры EVEN
-Простая консольная игра на проверку чётности чисел.
+Игра: "Проверка на четность"
 [![asciicast](https://asciinema.org/a/w68yg9Yjj4vxw4QH.svg)](https://asciinema.org/a/w68yg9Yjj4vxw4QH)
+
+Игра: "Калькулятор"
+[![asciicast](https://asciinema.org/a/5NoH5vdRBHo6KBlg.svg)](https://asciinema.org/a/5NoH5vdRBHo6KBlg)
