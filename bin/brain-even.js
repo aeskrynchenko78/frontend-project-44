@@ -1,8 +1,6 @@
 #!/usr/bin/env node
 
-import { runGame } from '../src/engine.js';
-import { generateRound } from '../src/games/even.js';
-
-const gameDescription = 'Answer "yes" if the number is even, otherwise answer "no".';
+import { runGame } from '../src/index.js';
+import { gameDescription, generateRound } from '../src/games/even.js';
 
 runGame(gameDescription, generateRound);
