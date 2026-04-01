@@ -29,4 +29,3 @@ export const generateRound = () => {
 };
 
 export const gameDescription = 'What number is missing in the progression?';
-
