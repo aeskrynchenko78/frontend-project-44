@@ -9,11 +9,11 @@
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=aeskrynchenko78_frontend-project-44&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=aeskrynchenko78_frontend-project-44)
 
 ### Команды для запуска игр.
-brain-even        === Игра: "Проверка на чётность"
-brain-calc        === Игра: "Калькулятор"
-brain-gcd         === Игра: "Наибольший общий делитель" 
-brain-progression === Игра: "Арифметическая прогрессия"
-brain-prime       === Игра: "Простое ли число?"
+brain-even        === Игра: "Проверка на чётность"<br>
+brain-calc        === Игра: "Калькулятор"<br>
+brain-gcd         === Игра: "Наибольший общий делитель"<br> 
+brain-progression === Игра: "Арифметическая прогрессия"<br>
+brain-prime       === Игра: "Простое ли число?"<br>
 
 ### Установка и демонстрация игр.
 [![asciicast](https://asciinema.org/a/axLWCT9sxd3j0ApW.svg)](https://asciinema.org/a/axLWCT9sxd3j0ApW)
