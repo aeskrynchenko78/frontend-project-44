@@ -8,18 +8,12 @@
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=aeskrynchenko78_frontend-project-44&metric=coverage)](https://sonarcloud.io/summary/new_code?id=aeskrynchenko78_frontend-project-44)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=aeskrynchenko78_frontend-project-44&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=aeskrynchenko78_frontend-project-44)
 
+### Команды для запуска игр.
+brain-even        === Игра: "Проверка на чётность"
+brain-calc        === Игра: "Калькулятор"
+brain-gcd         === Игра: "Наибольший общий делитель" 
+brain-progression === Игра: "Арифметическая прогрессия"
+brain-prime       === Игра: "Простое ли число?"
 
-### Установка и демонстрация игры "Проверка на четность"
-[![asciicast](https://asciinema.org/a/w68yg9Yjj4vxw4QH.svg)](https://asciinema.org/a/w68yg9Yjj4vxw4QH)
-
-### Демонстрация игры "Калькулятор"
-[![asciicast](https://asciinema.org/a/5NoH5vdRBHo6KBlg.svg)](https://asciinema.org/a/5NoH5vdRBHo6KBlg)
-
-### Демонстрация игры "Наибольший общий делитель"
-[![asciicast](https://asciinema.org/a/V5TkRpGs7i8m3juD.svg)](https://asciinema.org/a/V5TkRpGs7i8m3juD)
-
-### Демонстрация игры "Арифметическая прогрессия"
-[![asciicast](https://asciinema.org/a/xtT8dE857T8EQXko.svg)](https://asciinema.org/a/xtT8dE857T8EQXko)
-
-### Демонстрация игры "Простое число"
-[![asciicast](https://asciinema.org/a/1AL2JfyBaNgcQWQv.svg)](https://asciinema.org/a/1AL2JfyBaNgcQWQv)
+### Установка и демонстрация игр.
+[![asciicast](https://asciinema.org/a/axLWCT9sxd3j0ApW.svg)](https://asciinema.org/a/axLWCT9sxd3j0ApW)
