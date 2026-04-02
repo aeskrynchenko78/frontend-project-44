@@ -1,27 +1,27 @@
-import { getRandomInt } from '../utils.js';
+import { getRandomInt } from '../utils.js'
 
-const operations = ['+', '-', '*'];
+const operations = ['+', '-', '*']
 
 const calculate = (a, b, operation) => {
   switch (operation) {
     case '+':
-      return a + b;
+      return a + b
     case '-':
-      return a - b;
+      return a - b
     case '*':
-      return a * b;
+      return a * b
     default:
-      throw new Error(`Unknown operation: '${operation}'!`);
+      throw new Error(`Unknown operation: '${operation}'!`)
   }
-};
+}
 
 export const generateRound = () => {
-  const a = getRandomInt(1, 100);
-  const b = getRandomInt(1, 100);
-  const operation = operations[getRandomInt(0, operations.length - 1)];
-  const question = `${a} ${operation} ${b}`;
-  const correctAnswer = String(calculate(a, b, operation));
-  return { question, correctAnswer };
-};
+  const a = getRandomInt(1, 100)
+  const b = getRandomInt(1, 100)
+  const operation = operations[getRandomInt(0, operations.length - 1)]
+  const question = `${a} ${operation} ${b}`
+  const correctAnswer = String(calculate(a, b, operation))
+  return { question, correctAnswer }
+}
 
-export const gameDescription = 'What is the result of the expression?';
+export const gameDescription = 'What is the result of the expression?'
